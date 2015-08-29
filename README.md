@@ -1,1 +1,1 @@
-# notes
+<http://blog.rainyalley.com/>

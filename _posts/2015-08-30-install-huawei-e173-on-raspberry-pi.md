@@ -1,5 +1,11 @@
 ---
-published: false
+layout: post
+title: Building Weather Station
+tags: "raspberry-pi electronics"
+categories: notes tutorials
+published: true
 ---
 
-## A New Post
+
+<div class="toc"></div>
+

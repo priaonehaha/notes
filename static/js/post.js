@@ -3,7 +3,7 @@
  */
 $(document).ready(function() {
     generateContent();
-    share();
+    /**share();*/
     disqus();
 });
 
@@ -27,7 +27,7 @@ function share(){
 
 function disqus(){
     /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'rainyalley';
+    var disqus_shortname = 'priaonehaha';
 
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
